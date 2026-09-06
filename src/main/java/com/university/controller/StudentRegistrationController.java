@@ -3,7 +3,6 @@ package com.university.controller;
 import com.university.enums.SectionStatus;
 import com.university.enums.UserRole;
 import com.university.model.Course;
-import com.university.model.Enrollment;
 import com.university.model.Instructor;
 import com.university.model.Section;
 import com.university.model.SectionSchedule;

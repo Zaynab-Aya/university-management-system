@@ -27,7 +27,6 @@ import com.university.util.AlertUtil;
 import com.university.util.Async;
 import com.university.util.SceneManager;
 
-import javafx.application.Platform;
 import javafx.beans.binding.Bindings;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.FXCollections;
