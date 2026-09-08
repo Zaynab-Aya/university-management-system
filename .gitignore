@@ -24,3 +24,6 @@ db.properties
 vosk-model/
 
 # Repository cleanup
+
+# Local database backups
+database-backup/*.bak
